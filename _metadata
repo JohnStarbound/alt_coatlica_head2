@@ -1,0 +1,12 @@
+{
+  "version" : "1.0",
+  "tags" : "Miscellaneous|Species|Character Improvements",
+  "author" : "MiscMango",
+  "description" : "An alternative head option for Alternative Coatlica. This one has frills and stuff. Neat.",
+  "name" : "Alternative_Coatlica_Head",
+  "friendlyName" : "Alternative Coatlica Head",
+  "priority" : 99999,
+  "steamContentId" : "",
+  "link" : "",
+  "includes" : ["Coatlica Race"]
+}

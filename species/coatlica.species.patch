@@ -1,0 +1,26 @@
+[
+  {
+    "op": "remove",
+    "path": "/genders/0/hair"
+  },  
+  {
+    "op": "remove",
+    "path": "/genders/1/hair"
+  },
+  
+  {
+    "op": "add",
+    "path": "/genders/0/hair",
+    "value": [
+      "bald", "uni1", "uni2", "uni3", "uni4", "uni5", "uni6", "uni7", "uni8", "uni9", "uni10", "uni11", "uni12", "uni13", "uni14", "uni15", "uni16", "uni17", "uni18", "uni19", "uni20", "uni21", "uni22", "uni23", "uni24", "uni25", "uni26", "uni27", "uni28", "uni29"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/genders/1/hair",
+    "value": [
+      "bald", "uni1", "uni2", "uni3", "uni4", "uni5", "uni6", "uni7", "uni8", "uni9", "uni10", "uni11", "uni12", "uni13", "uni14", "uni15", "uni16", "uni17", "uni18", "uni19", "uni20", "uni21", "uni22", "uni23", "uni24", "uni25", "uni26", "uni27", "uni28", "uni29"
+    ]
+  }
+  
+]
